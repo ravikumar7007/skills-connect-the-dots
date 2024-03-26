@@ -4,6 +4,7 @@
 
 git checkout branch_name -- filename
 
+
 # Unstage all changes but leave files in the working directory untouched
 
 git reset HEAD
